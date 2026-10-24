@@ -30,6 +30,7 @@ a{color:var(--accent-text)}
 b{font-weight:700}
 
 .box{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:16px;margin-bottom:12px}
+[id]{scroll-margin-top:12px}
 .hl{background:var(--accent-soft);border-color:var(--accent)}
 .warn{background:var(--surface);border-color:var(--line)}
 .warn h3{color:var(--alert)}
