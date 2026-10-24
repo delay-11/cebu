@@ -129,15 +129,20 @@ details.more summary::-webkit-details-marker{display:none}
 details.more summary::after{content:" ▼";font-size:.8rem}
 details.more[open] summary::after{content:" ▲"}
 details.more p{margin:8px 0 0;font-size:1.05rem;line-height:1.6}
-ul.food,ul.checks{list-style:none;margin:0;padding:0}
-.fi{display:flex;gap:12px;padding:8px 0;border-bottom:1px solid var(--line)}
-.fi:last-child,.checks li:last-child{border-bottom:0}
-.fi small,.ck small{display:block;color:var(--muted);font-size:1.02rem}
-.checks li{border-bottom:1px solid var(--line)}
-.ck{display:flex;gap:14px;align-items:flex-start;padding:10px 0;cursor:pointer}
-.ck input{width:30px;height:30px;flex:none;margin-top:2px;accent-color:var(--accent)}
-.ck input:checked+span{opacity:.5}
-.ck input:checked+span b{text-decoration:line-through}
+.items{list-style:none;margin:0 0 14px;padding:0;display:grid;gap:8px}
+.items li{margin:0}
+.item{display:flex;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:12px 14px}
+.item .ico{flex:none;width:42px;font-size:2rem;line-height:1;text-align:center}
+.item .txt{flex:1;min-width:0}
+.item b{font-size:1.2rem;line-height:1.35;margin-right:6px}
+.item .en{display:inline-block;font-size:.95rem;font-weight:700;color:var(--accent-text)}
+.item small{display:block;font-size:1.05rem;line-height:1.5;margin-top:2px}
+/* 기념품: 카드 전체를 눌러서 체크, 체크박스는 오른쪽 */
+label.item{cursor:pointer}
+label.item input{order:3;flex:none;width:30px;height:30px;margin:0;accent-color:var(--accent)}
+label.item:has(input:checked){background:var(--accent-soft);border-color:var(--accent)}
+.item input:checked~.txt{opacity:.6}
+.item input:checked~.txt b{text-decoration:line-through}
 
 /* ===== 아래 메뉴 ===== */
 nav{position:fixed;left:0;right:0;bottom:0;background:var(--surface);border-top:1px solid var(--line);
