@@ -206,14 +206,9 @@ nav button[aria-current="true"]{color:var(--ink);font-weight:700;background:var(
   .kv dt:first-child{margin-top:0}
 }
 
-/* ===== 장소 사진, 사진 출처 ===== */
+/* ===== 장소 사진 ===== */
 .place{display:block;width:100%;height:auto;max-width:440px;aspect-ratio:16/10;object-fit:cover;border-radius:14px;margin-top:8px}
 .places{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:8px;max-width:440px}
 .places figure{margin:0}
 .places img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover;border-radius:12px}
 .places figcaption{font-size:.9rem;font-weight:700;text-align:center;margin-top:4px;line-height:1.3}
-.credit{text-align:center;margin:24px 0 0;font-size:.9rem}
-.credit a{color:var(--muted)}
-.credits{list-style:none;margin:0 0 16px;padding:0}
-.credits li{padding:10px 0;border-bottom:1px solid var(--line);font-size:1rem;line-height:1.5;word-break:break-all}
-.credits small{color:var(--muted);font-size:.9rem}
