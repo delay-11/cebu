@@ -51,3 +51,6 @@ file/           사진 (화면 캡처, 지폐·동전, 음식·기념품 item-*,
 - 마젤란 십자가: [Magellan's Cross Cebu (cropped).jpg](https://commons.wikimedia.org/wiki/File:Magellan%27s_Cross_Cebu_(cropped).jpg) · Kingphoto23 · CC BY-SA 3.0
 - 산토니뇨 성당: [Santo Niño Basilica Cebu City at dawn 2026-07-12.jpg](https://commons.wikimedia.org/wiki/File:Santo_Ni%C3%B1o_Basilica_Cebu_City_at_dawn_2026-07-12.jpg) · LMP 2001 · CC BY-SA 4.0
 - SM시티 세부: [Entrance of SM City Cebu (2024-07-19).jpg](https://commons.wikimedia.org/wiki/File:Entrance_of_SM_City_Cebu_(2024-07-19).jpg) · Wide Awake! · CC BY 4.0
+- 인천공항 제2여객터미널: [인천공항 제2여객터미널 2A 입구.jpg](https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD_%EC%A0%9C2%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90_2A_%EC%9E%85%EA%B5%AC.jpg) · Twotwo2019 · CC BY 4.0
+- 세부 출발 (막탄 세부 국제공항): [Outside Mactan-Cebu International Airport Terminal 2.jpg](https://commons.wikimedia.org/wiki/File:Outside_Mactan-Cebu_International_Airport_Terminal_2.jpg) · Ralff Nestor Nacor · CC BY-SA 4.0
+- 과일 시장 (세부 톨레도의 과일 가게): [Vibrant Stocked Toledo Fruit Stand.jpg](https://commons.wikimedia.org/wiki/File:Vibrant_Stocked_Toledo_Fruit_Stand.jpg) · QueenCityCebu · CC BY-SA 4.0
