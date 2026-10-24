@@ -33,13 +33,6 @@
     var t=document.createElement("span");t.className="today";t.textContent="오늘";x.querySelector(".when").appendChild(t);}});
   showDay(start,false);
 
-  // 쇼핑 체크
-  var done={};try{done=JSON.parse(localStorage.getItem("shop")||"{}")}catch(e){}
-  document.querySelectorAll(".checks input").forEach(function(c){
-    c.checked=!!done[c.dataset.k];
-    c.addEventListener("change",function(){done[c.dataset.k]=c.checked;save("shop",JSON.stringify(done))});
-  });
-
   // 편지
   var LW={"1":[Date.UTC(2026,9,29,14,0),Date.UTC(2026,10,1,15,0)],"2":[Date.UTC(2026,10,1,20,30),Date.UTC(2026,10,20)]};
   var lbg=document.getElementById("letterBg"), lcl=document.getElementById("letterClose"), lprev=null, lcur=null;
