@@ -12,7 +12,11 @@
   }
   document.querySelectorAll("nav button").forEach(function(b){b.addEventListener("click",function(){go(b.dataset.tab)})});
   go((location.hash||"").replace("#",""),false);
-  document.querySelectorAll("[data-go]").forEach(function(b){b.addEventListener("click",function(){go(b.dataset.go)})});
+  document.querySelectorAll("[data-go]").forEach(function(b){b.addEventListener("click",function(){
+    var to=b.dataset.to&&document.getElementById(b.dataset.to);
+    go(b.dataset.go,!to);
+    if(to)to.scrollIntoView({block:"start"});
+  })});
 
   // 날짜 고르기
   var days=[].slice.call(document.querySelectorAll(".day")), picks=[].slice.call(document.querySelectorAll(".daypick button"));
