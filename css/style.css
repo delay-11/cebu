@@ -13,7 +13,7 @@
 /* rem 기준을 18px로: 작은 글씨(보조 설명, 메뉴 이름 등)가 18px 아래로 내려가지 않게 */
 html{font-size:18px;scroll-padding-top:env(safe-area-inset-top,0px)}
 body{margin:0;background:var(--bg);color:var(--ink);
-  font-family:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  font-family:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
   font-size:21px;line-height:1.6;-webkit-text-size-adjust:100%;word-break:keep-all;
   -webkit-tap-highlight-color:transparent}
 .wrap{max-width:880px;margin:0 auto;padding:16px 14px 110px}
@@ -37,7 +37,7 @@ b{font-weight:700}
 .box li{margin:6px 0}
 
 /* ===== 일정 ===== */
-.daypick{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px}
+.daypick{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-bottom:12px}
 .daypick button{background:var(--surface);border:2px solid var(--line);border-radius:16px;padding:12px 4px;min-height:64px;color:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.3}
 .daypick button b{font-size:1.15rem}
 .daypick button span{font-size:.9rem;color:var(--muted)}
@@ -174,7 +174,7 @@ nav button[aria-current="true"]{color:var(--ink);font-weight:700;background:var(
 .letter.show{opacity:1;transform:none}
 .letter::before{content:"";position:absolute;left:26px;top:0;bottom:0;width:2px;background:#F1B9AE}
 .lt-tag{color:#8A7A5E;font-size:1rem;margin:0 0 6px}
-.lt-body{font-family:"Gaegu","Nanum Pen Script","IBM Plex Sans KR",sans-serif;font-size:1.6rem;line-height:2.4rem;background-image:repeating-linear-gradient(to bottom,transparent 0,transparent calc(2.4rem - 1px),#E3D7BC calc(2.4rem - 1px),#E3D7BC 2.4rem);margin-bottom:18px}
+.lt-body{font-family:"Gaegu","Nanum Pen Script","Pretendard Variable",sans-serif;font-size:1.6rem;line-height:2.4rem;background-image:repeating-linear-gradient(to bottom,transparent 0,transparent calc(2.4rem - 1px),#E3D7BC calc(2.4rem - 1px),#E3D7BC 2.4rem);margin-bottom:18px}
 .lt-body p{margin:0;font-size:inherit;line-height:inherit}
 .lt-body .lt-hi{font-size:1.9rem;font-weight:700}
 @keyframes envIn{from{opacity:0;transform:translateY(30px) scale(.9)}to{opacity:1;transform:none}}
