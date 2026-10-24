@@ -37,7 +37,6 @@ file/           사진 (화면 캡처, 지폐·동전, 음식·기념품 item-*,
 - 오타피: [Otap (Utap) puff pastry.jpg](https://commons.wikimedia.org/wiki/File:Otap_(Utap)_puff_pastry.jpg) · Obsidian Soul · CC0
 - 로스키요스: [Rosquillos.jpg](https://commons.wikimedia.org/wiki/File:Rosquillos.jpg) · Obsidian Soul · CC BY-SA 3.0
 - 타블레아: [Tablea- The Pinoy Chocolate.jpg](https://commons.wikimedia.org/wiki/File:Tablea-_The_Pinoy_Chocolate.jpg) · Robertmarrel · CC BY-SA 4.0
-- 칼라만시 원액: [Citrofortunella microcarpa 3zz.jpg](https://commons.wikimedia.org/wiki/File:Citrofortunella_microcarpa_3zz.jpg) · Photo by David J. Stang · CC BY-SA 4.0
 - 코코넛 오일: [Coconut oil bottle in the background of coconuts from Kaleeswari Farm.jpg](https://commons.wikimedia.org/wiki/File:Coconut_oil_bottle_in_the_background_of_coconuts_from_Kaleeswari_Farm.jpg) · deadrat · CC BY-SA 4.0
 - 파파야 비누 · 노니 비누: [Luna Naturals Soap.jpg](https://commons.wikimedia.org/wiki/File:Luna_Naturals_Soap.jpg) · Andreluchavez08 · CC BY-SA 4.0
 - 단깃: [Many Kinds of Dried fish at Toledo Public Market 23.jpg](https://commons.wikimedia.org/wiki/File:Many_Kinds_of_Dried_fish_at_Toledo_Public_Market_23.jpg) · QueenCityCebu · CC BY-SA 4.0
@@ -54,4 +53,4 @@ file/           사진 (화면 캡처, 지폐·동전, 음식·기념품 item-*,
 - 인천공항 제2여객터미널: [인천공항 제2여객터미널 2A 입구.jpg](https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD_%EC%A0%9C2%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90_2A_%EC%9E%85%EA%B5%AC.jpg) · Twotwo2019 · CC BY 4.0
 - 세부 출발 (막탄 세부 국제공항): [Outside Mactan-Cebu International Airport Terminal 2.jpg](https://commons.wikimedia.org/wiki/File:Outside_Mactan-Cebu_International_Airport_Terminal_2.jpg) · Ralff Nestor Nacor · CC BY-SA 4.0
 - 과일 시장 (세부 톨레도의 과일 가게): [Vibrant Stocked Toledo Fruit Stand.jpg](https://commons.wikimedia.org/wiki/File:Vibrant_Stocked_Toledo_Fruit_Stand.jpg) · QueenCityCebu · CC BY-SA 4.0
-- 쉐라톤 리조트, 7107 레스토랑, 날루수안섬: 직접 받은 사진
+- 쉐라톤 리조트, 7107 레스토랑, 날루수안섬, 칼라만시 원액: 직접 받은 사진
