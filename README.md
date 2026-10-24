@@ -43,7 +43,6 @@ file/           사진 (화면 캡처, 지폐·동전, 음식·기념품 item-*,
 - 치차론: [Chicharon sa Carcar 1.jpg](https://commons.wikimedia.org/wiki/File:Chicharon_sa_Carcar_1.jpg) · Bim24 · CC BY 4.0
 - 필리핀 커피: [Kapeng barako Batangas coffee.jpg](https://commons.wikimedia.org/wiki/File:Kapeng_barako_Batangas_coffee.jpg) · P1898 · CC BY 4.0
 - 조개 공예품: [Shell craft Guiuan October 4 2026 Eastern Samar 02.jpg](https://commons.wikimedia.org/wiki/File:Shell_craft_Guiuan_October_4_2026_Eastern_Samar_02.jpg) · P1898 · CC BY 4.0
-- 막탄 수제 기타: [Cebu guitar toys.jpg](https://commons.wikimedia.org/wiki/File:Cebu_guitar_toys.jpg) · Jose Angelo Santos · CC BY-SA 3.0
 - 막탄 세부 국제공항: [Mactan-Cebu International Airport Terminal 2, Jan 2024.jpg](https://commons.wikimedia.org/wiki/File:Mactan-Cebu_International_Airport_Terminal_2,_Jan_2024.jpg) · Ralff Nestor Nacor · CC BY-SA 4.0
 - 힐루뚱안섬: [Nalusuan dive trip June 2025 066.jpg](https://commons.wikimedia.org/wiki/File:Nalusuan_dive_trip_June_2025_066.jpg) · Martin Michlmayr · CC BY-SA 4.0
 - 산페드로 요새: [San Pedro Fort Cebu 02.jpg](https://commons.wikimedia.org/wiki/File:San_Pedro_Fort_Cebu_02.jpg) · Philip Nalangan · CC BY 4.0
