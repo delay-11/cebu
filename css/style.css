@@ -174,9 +174,9 @@ nav button[aria-current="true"]{color:var(--ink);font-weight:700;background:var(
 .letter.show{opacity:1;transform:none}
 .letter::before{content:"";position:absolute;left:26px;top:0;bottom:0;width:2px;background:#F1B9AE}
 .lt-tag{color:#8A7A5E;font-size:1rem;margin:0 0 6px}
-.lt-body{font-family:"Gaegu","Nanum Pen Script","Pretendard Variable",sans-serif;font-size:1.6rem;line-height:2.4rem;background-image:repeating-linear-gradient(to bottom,transparent 0,transparent calc(2.4rem - 1px),#E3D7BC calc(2.4rem - 1px),#E3D7BC 2.4rem);margin-bottom:18px}
+.lt-body{font-family:"Gaegu","Nanum Pen Script","Pretendard Variable",sans-serif;font-size:1.35rem;line-height:2.1rem;background-image:repeating-linear-gradient(to bottom,transparent 0,transparent calc(2.1rem - 1px),#E3D7BC calc(2.1rem - 1px),#E3D7BC 2.1rem);margin-bottom:18px}
 .lt-body p{margin:0;font-size:inherit;line-height:inherit}
-.lt-body .lt-hi{font-size:1.9rem;font-weight:700}
+.lt-body .lt-hi{font-size:1.6rem;font-weight:700}
 @keyframes envIn{from{opacity:0;transform:translateY(30px) scale(.9)}to{opacity:1;transform:none}}
 @keyframes envBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
 @media (prefers-reduced-motion:reduce){.env,.env:not(.open){animation:none}.env-flap,.env-paper,.letter{transition:none}}
